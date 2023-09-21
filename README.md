@@ -14,7 +14,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Tech lead, Frontend/UI Engineer & consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Lead Frontend/UI Engineer & consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - I’m working as a Lead UI/Frontend Engineer and building large-scale web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups and Twitter & Linkedin.
