@@ -14,7 +14,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am UI/Frontend Engineer & consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Currently Working as Assistant Engineering Manager and leading team of devlopers and building highly scalable AI first Signle page applications.
+I am UI/Frontend Engineer & consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Currently, I am serving as the Assistant Engineering Manager, leading a team of developers and constructing highly scalable AI-first single-page applications.
 
 - I've 8+ Years of experience in building large-scale web applications.
 - Authoring and blogging about emerging technologies.
